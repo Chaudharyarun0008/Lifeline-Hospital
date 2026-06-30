@@ -1,0 +1,21 @@
+========================================
+Patient Name : Arun Kumar
+Age          : 21
+Gender       : Male
+DOB          : 2005-04-12
+Phone        : 9876543210
+Address      : Ghaziabad, Uttar Pradesh
+Disease      : Viral Fever
+Registered On: 29/06/2026, 6:45 PM
+========================================
+
+========================================
+Patient Name : Priya Sharma
+Age          : 28
+Gender       : Female
+DOB          : 1998-08-21
+Phone        : 9123456780
+Address      : Noida, Uttar Pradesh
+Disease      : Migraine
+Registered On: 29/06/2026, 6:52 PM
+========================================
